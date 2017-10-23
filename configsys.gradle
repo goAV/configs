@@ -3,5 +3,5 @@
  * By chinaume@163.com
  */
 ext {
-    supportVersion = '25.3.1'
+    supportVersion = '26.1.0'
 }
