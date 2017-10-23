@@ -10,5 +10,5 @@ android {
 
 
 ext {
-    def supportVersion = '25.3.1'
+    supportVersion = '25.3.1'
 }
