@@ -2,13 +2,6 @@
  * Copyright (c) 2017.
  * By chinaume@163.com
  */
-
-android {
-    compileSdkVersion = 25
-    buildToolsVersion = "26.0.2"
-}
-
-
 ext {
     supportVersion = '25.3.1'
 }
